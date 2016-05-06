@@ -1,0 +1,189 @@
+.logo img{
+width: 100%;
+height: 100px;
+}
+.topnav li{
+margin:0px 10px;
+line-height: 97px;
+text-decoration: none;
+font-family: Verdana;
+font-style: bold;
+color: gray;
+}
+.nav-tabs{
+	border:none;
+}
+
+
+.clear{
+	clear: both;
+}
+.bigbox{
+	background-image: url(firstimg.jpg);
+	height: 650px;
+	background-position: center center;
+	background-size: cover;
+}
+.bigbox p:first-child{
+	position: absolute;
+	bottom: 55px;
+	color:#EE6914;
+	text-decoration: none;
+	font-weight: bold;
+	font-size:16px; 
+
+
+}
+.bigbox p:last-child{
+	position: absolute;
+	bottom:0;
+	color:white;
+	text-decoration: none;
+	font-size: 14px;
+	width: 90%;
+
+}
+.smallbox{
+	background-image: url(secondimg.jpg);
+	height: 650px;
+	background-position: center center;
+	background-size: cover;
+	text-align: center;
+}
+.smallbox i{
+	font-size:175px;
+	margin-top:200px;
+	color:#eee9e9;
+	
+}
+.smallbox .temp{
+	font-size: 40px;
+	position: absolute;
+	top:200px;
+	left: 230px;
+	color:#eee9e9;
+}
+.box1{
+	background-image: url(box1.jpeg);
+	background-position: center center;
+	background-size: cover;
+	height: 300px;
+}
+
+.box2{
+	background-image: url(box2.jpg);
+	background-position: center center;
+	background-size: cover;
+	height: 300px;
+}
+
+.box3{
+	background-image: url(box3.jpeg);
+	background-position: center center;
+	background-size: cover;
+	height: 300px;
+}
+.box4{
+	background-image: url(box4.jpg);
+	background-position: center center;
+	background-size: cover;
+	height: 300px;
+}
+
+.thumbnails div span{
+	position: absolute;
+	top: 20px;
+    color:white;
+	font-weight: bold;
+	border-bottom: 2px solid yellow;
+
+}
+.thumbnails div p{
+	position: absolute;
+	bottom:5px;
+	color:white;
+	font-weight: bold;
+}
+.videoplayer{
+	background-color: black;
+}
+.suggestions li{
+	margin-bottom: 28px;
+    text-decoration: none;
+    font-family: Verdana;
+    font-style: bold;
+    color:#EE6914;
+
+}
+.midnav li{
+	margin:0px 30px;
+    line-height: 75px;
+    text-decoration: none;
+    font-family: Verdana;
+    color: gray;
+}
+.midnav li:hover{
+	color:#EE6914;
+}
+
+.magazine .col-md-3{
+	height: 310px;
+
+}
+
+.magimg1{
+	background-image: url(last1.jpg);
+	background-size: cover;
+}
+.magimg2{
+	background-image: url(last2.jpg);
+	background-size: cover;
+}
+.magimg3{
+	background-image: url(last3.jpg);
+	background-size: cover;
+}
+.magimg4{
+	background-image: url(last4.jpg);
+	background-size: cover;
+}
+
+.footer{
+	background-color: #545454;
+	height: 70px;
+}
+
+.magtext span{
+	color:orange;
+	font-size: 18px;
+	border-bottom: 1px solid orange;
+}
+
+.magtext p{
+	text-decoration: none;
+
+
+}
+
+.logo2 img{
+    width: 100%;
+    height: 70px;
+}
+.bottomnav li{
+margin:0px 15px;
+line-height: 70px;
+text-decoration: none;
+font-family: Verdana;
+font-style: bold;
+color: #EE6914;
+}
+.bottomnav li:last child{
+	color:gray;
+
+}
+
+.navbar-right li{
+line-height: 70px;
+color: #EE6914;
+text-decoration: none;
+}
